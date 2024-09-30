@@ -1,2 +1,2 @@
 # CVSD
-Computer-aided System Design laboratory
+Computer-aided VLSI System Design Laboratory
